@@ -7,5 +7,6 @@
 ---
 - first
 - second
+- third
 
 [this is an]
